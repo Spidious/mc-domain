@@ -18,7 +18,7 @@ Private server hosted through VPN
 
 3. [Connecting to the server](#connecting-to-the-server)
 
-   1. [Server IP](#ip_address) or [Hostname](#hostname_address)
+   1. [Server IP](#ip_address)
 
 4. [Troubleshooting](#troubleshooting)
 
