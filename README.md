@@ -67,7 +67,7 @@ You can also add any mods, resource packs, and shaders to the profile. *Only add
 
    2. *If this is not the case you have done something wrong.*
 
-4. Click this share link =&gt; Link Expires: --/--/----
+4. Click the share link in discord
 
    1. What this does: *Adds my server to your "Tailnet", putting it on the virtual LAN.*
 
@@ -81,9 +81,7 @@ To do this both ***Forge Setup*** and ***VPN Setup*** must be complete.
 
 2. Go to Multiplayer and click "Direct Connect" or "Add Server"
 
-3. Use this IP address: <x id="ip_address">*x.x.x.x*</x>
-
-   1. Alternatively you can connect through the hostname: <br><x id="hostname_address">*mc-domain.cougar-pikes.ts.net*</x>
+3. Use this IP address: <x id="ip_address">*100.104.200.67*</x>
 
 ---
 
